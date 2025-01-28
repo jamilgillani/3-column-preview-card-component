@@ -135,6 +135,6 @@ h2 {
     }
 
     .very-dark-cyan{
-        border-radius: 0rem 0.625rem 0.625rem 0rem;
+        border-radius: 0rem 0.625rem 0.625rem 0px;
     }
 }
