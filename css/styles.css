@@ -62,7 +62,7 @@ h2 {
 }
 
 p {
-    margin-bottom: 3rem;
+    margin-bottom: 4rem;
     text-align: align;
     line-height: 1.5rem;
 
@@ -129,7 +129,7 @@ h2 {
         display: flex;
         padding: 6.25rem;
         justify-content: center;
-        margin: 0 3rem 0 3rem;
+        margin: 0 4rem 0 4rem;
     }
 
     .bright-orange{
